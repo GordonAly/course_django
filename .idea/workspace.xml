@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62376ec9-ef4a-468e-9ef4-92b57b82540f" name="Changes" comment="" />
+    <list default="true" id="62376ec9-ef4a-468e-9ef4-92b57b82540f" name="Changes" comment="commit dz 1">
+      <change afterPath="$PROJECT_DIR$/geekshop/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +16,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27fPicg3JfQlaokBiQctKdE7evh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,11 +36,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\курс django\geekshop" />
       <recent name="E:\курс django\geekshop\geekshop\templates\geekshop" />
       <recent name="E:\курс django\geekshop\geekshop\static\geekshop" />
       <recent name="E:\курс django\geekshop\mainapp\templates\mainapp" />
       <recent name="E:\курс django\geekshop\templaces\geekshop" />
-      <recent name="E:\курс django\geekshop\static\geekshop" />
     </key>
   </component>
   <component name="RunManager">
@@ -69,6 +75,29 @@
       <option name="presentableId" value="Default" />
       <updated>1649708294742</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit dz 1">
+      <created>1650748340981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650748340981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit dz 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit dz 1" />
   </component>
 </project>
